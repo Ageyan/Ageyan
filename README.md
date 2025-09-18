@@ -19,6 +19,30 @@
 
 ---
 
+### 🔹 [Beauty-Zone Website](https://ageyan.github.io/genius-homework-4/)
+Лендінг салону краси з адаптивною версткою, слайдером з використанняс HTML та SASS.  
+📂 [Код проекта](https://github.com/ageyan/genius-homework-4)
+
+---
+
+### 🔹 [Shop-Bakery Website](https://ageyan.github.io/shop-bakery/)
+Лендінг пекарні адаптивною версткою, слайдером з використанняс HTML та SASS.  
+📂 [Код проекта](https://github.com/ageyan/shop-bakery)
+
+---
+
+### 🔹 [Tip-Calculator](https://ageyan.github.io/tip-calculator/)
+Калькулятор для підрахунку чайових з використанням JS.  
+📂 [Код проекта](https://github.com/ageyan/tip-calculator)
+
+---
+
+### 🔹 [Pin-JS Website](https://ageyan.github.io/pin-js/)
+Імітація пін коду з використанням JS.  
+📂 [Код проекта](https://github.com/ageyan/shop-bakery)
+
+---
+
 ## 🛠️ Технології
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
