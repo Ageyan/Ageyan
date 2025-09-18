@@ -52,6 +52,10 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,git,github,vscode" />
+</p>
+
 ---
 
 ## 📊 Статистика GitHub
