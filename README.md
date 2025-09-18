@@ -59,6 +59,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ageyan&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageyan&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ageyan&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ageyan&theme=tokyonight" height="160px"/>
+</p>
+
 ---
 
 📌 У майбутньому список проектів поповнюватиметься!
