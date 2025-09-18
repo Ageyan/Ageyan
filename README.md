@@ -13,6 +13,12 @@
 
 ---
 
+### 🔹 [Harry-Potter Website](https://ageyan.github.io/harry-potter-website/)
+Лендінг з адаптивною версткою, слайдером і використанням api.  
+📂 [Код проекта](https://github.com/ageyan/harry-potter-website)
+
+---
+
 ## 🛠️ Технології
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
