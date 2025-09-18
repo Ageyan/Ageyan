@@ -61,4 +61,12 @@
 
 ---
 
+### 📫 Связаться со мной
+<p align="center">
+  <a href="https://t.me/Ageyan"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:ageenko01114444@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
 📌 У майбутньому список проектів поповнюватиметься!
