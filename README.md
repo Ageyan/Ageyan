@@ -1,14 +1,14 @@
-# 👋 Привіт, мене звуть Андрій
-
-Я початківець **Full Stack - розробник**. На данний момент проходжу навчання, опановую **JavaScript, React, HTML, CSS/SCSS** та створюю невеликі проекти для практики.
-Хочу розвиватися у веб-розробці та створювати сучасні, зручні сайти та додатки.  
-
-<h1 align="center">👋 Привет! Я Андрей</h1>
-<h3 align="center">Frontend-разработчик ✨</h3>
+# <h1 align="center">👋 Привіт, мене звати Андрій</h1>
+<h3 align="center"> Full Stack - розробник </h3>
 
 ---
 
-## 🚀 Мої проекти
+<з align="center">Я початківець **Full Stack - розробник**. На данний момент проходжу навчання, опановую **JavaScript, React, HTML, CSS/SCSS** та створюю невеликі проекти для практики.
+Хочу розвиватися у веб-розробці та створювати сучасні, зручні сайти та додатки.  </з>
+
+---
+
+## Мої проекти
 
 ### 🔹 [Lida's Website](https://ageyan.github.io/lidas-website-react/)
 Лендінг на React з адаптивною версткою, слайдером і формою зворотного зв'язку.  
@@ -47,13 +47,6 @@
 ---
 
 ## 🛠️ Технології
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,git,github,vscode" />
