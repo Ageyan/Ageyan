@@ -10,6 +10,12 @@
 
 ## Мої проекти
 
+### 🔹 [Urban Taste](urban-taste-react.vercel.app)
+Сайт ресторану на React з використанням маршутизації, адаптивної верстки, зворотного зв'язку та інших інструментів.  
+📂 [Код проекта](https://github.com/ageyan/urban-taste-react)
+
+---
+
 ### 🔹 [Lida's Website](https://ageyan.github.io/lidas-website-react/)
 Лендінг на React з адаптивною версткою, слайдером і формою зворотного зв'язку.  
 📂 [Код проекта](https://github.com/ageyan/lidas-website-react)
