@@ -10,7 +10,7 @@
 
 ## Мої проекти
 
-### 🔹 [Urban Taste](urban-taste-react.vercel.app)
+### 🔹 [Urban Taste](https://urban-taste-react.vercel.app)
 Сайт ресторану на React з використанням маршутизації, адаптивної верстки, зворотного зв'язку та інших інструментів.  
 📂 [Код проекта](https://github.com/ageyan/urban-taste-react)
 
